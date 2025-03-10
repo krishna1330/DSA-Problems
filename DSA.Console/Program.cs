@@ -20,6 +20,14 @@ internal class Program
         //BubbleSort.IntermediateProblem2();
         //BubbleSort.IntermediateProblem3();
         //BubbleSort.IntermediateProblem4();
-        BubbleSort.AdvancedProblem1();
+        //BubbleSort.AdvancedProblem1();
+
+        //InsertionSort.BasicProblem1();
+        //InsertionSort.BasicProblem2();
+        //InsertionSort.BasicProblem3();
+        //InsertionSort.IntermediateProblem1();
+        //InsertionSort.IntermediateProblem2();
+        //InsertionSort.IntermediateProblem3();
+        InsertionSort.AdvancedProblem1();
     }
 }
