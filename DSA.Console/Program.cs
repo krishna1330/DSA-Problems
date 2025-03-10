@@ -12,6 +12,14 @@ internal class Program
         //SelectionSort.IntermediateProblem3();
         //SelectionSort.AdvancedProblem1();
         //SelectionSort.AdvancedProblem2();
-        SelectionSort.AdvancedProblem3();
+        //SelectionSort.AdvancedProblem3();
+
+        //BubbleSort.BasicProblem1();
+        //BubbleSort.BasicProblem2();
+        //BubbleSort.IntermediateProblem1();
+        //BubbleSort.IntermediateProblem2();
+        //BubbleSort.IntermediateProblem3();
+        //BubbleSort.IntermediateProblem4();
+        BubbleSort.AdvancedProblem1();
     }
 }
