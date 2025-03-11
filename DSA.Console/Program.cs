@@ -28,6 +28,10 @@ internal class Program
         //InsertionSort.IntermediateProblem1();
         //InsertionSort.IntermediateProblem2();
         //InsertionSort.IntermediateProblem3();
-        InsertionSort.AdvancedProblem1();
+        //InsertionSort.AdvancedProblem1();
+
+        //MergeSort.BasicProblem1();
+        //MergeSort.BasicProblem2();
+        MergeSort.IntermediateProblem1();
     }
 }
