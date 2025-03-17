@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SearchingTechniques\SearchingTechniques.csproj" />
     <ProjectReference Include="..\SortingTechniques\SortingTechniques.csproj" />
   </ItemGroup>
 

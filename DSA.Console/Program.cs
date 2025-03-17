@@ -1,4 +1,5 @@
-﻿using SortingTechniques;
+﻿using SearchingTechniques;
+using SortingTechniques;
 
 internal class Program
 {
@@ -32,6 +33,15 @@ internal class Program
 
         //MergeSort.BasicProblem1();
         //MergeSort.BasicProblem2();
-        MergeSort.IntermediateProblem1();
+        //MergeSort.IntermediateProblem1();
+
+        //BinarySearch.BasciProblem1();
+        //BinarySearch.BasciProblem2();
+        //BinarySearch.IntermediateProblems1();
+        //BinarySearch.IntermediateProblem2();
+        //BinarySearch.IntermediateProblem3();
+        //BinarySearch.AdvancedProblem1();         =>   Need to be done
+        //BinarySearch.AdvancedProblem2();         =>   Need to be done
+        //BinarySearch.AdvancedProblem3();         =>   Need to be done
     }
 }
